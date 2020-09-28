@@ -1,3 +1,5 @@
+// month will start form 0 to 11 so 0 means Januray and 11 December
+
 const dayDateTime = new Date();
 
 const days = [
