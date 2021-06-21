@@ -1,0 +1,6 @@
+generate random number between 1 to 100 using javascript
+
+- using timestamp 
+    new Date().getTime(); // return millisecond from 1 january 1970 midnight and it's also called timestamp
+    Date.now() // also return timestamp 
+    get last two digit of timestamp 
